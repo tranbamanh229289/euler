@@ -1,2 +1,2 @@
 # euler
-Build web api with gin
+Build web api with gin gonic framework
